@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/#UIScene/[Scene]/StartUI.unity
+    guid: 5b048d63f002dff429f8be132fdfb335
+  - enabled: 1
+    path: Assets/#UIScene/[Scene]/LevelUI.unity
+    guid: 1caf21e16bb29dd499310d69e1c9109b
+  - enabled: 1
+    path: Assets/#Template/[Scenes]/KawaiiForest/KawaiiForest.unity
+    guid: e4f411e6e6945744a9002c3d82a803e8
+  - enabled: 1
+    path: Assets/#Template/[Scenes]/Terrasphere/Terrasphere.unity
+    guid: 0d8c733c93bebfd4b85cab1684b818cc
+  m_configObjects: {}

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9eeae46dfa7cb784e8f4caf828b6f773, type: 3}
+  m_Name: TerrasphereData
+  m_EditorClassIdentifier: 
+  levelTitle: Terrasphere
+  soundTrack: {fileID: 8300000, guid: 468375d4d4da8b042954fb6387552832, type: 3}
+  speed: 15
+  timeScale: 1
+  levelScene: 2
+  level: 14.9
+  illustraction: {fileID: 0}
+  gravity: {x: 0, y: -9.3, z: 0}
+  colors:
+  - material: {fileID: 2100000, guid: 4a9a05847c8609548b12b570d0f8317f, type: 2}
+    color: {r: 0, g: 0.5882353, b: 1, a: 1}
+  - material: {fileID: 2100000, guid: 240cd8514a588cb488b889fe13d20b98, type: 2}
+    color: {r: 0.76862746, g: 0.76862746, b: 0.76862746, a: 1}
+  - material: {fileID: 2100000, guid: 6b689dd40c56e9c4d89d730b21c8011a, type: 2}
+    color: {r: 0, g: 0.8627451, b: 1, a: 1}
+  - material: {fileID: 2100000, guid: 0534254645dfbfa488b251c74090bfaa, type: 2}
+    color: {r: 0.32941154, g: 0.32941154, b: 0.32941154, a: 1}
+  - material: {fileID: 2100000, guid: 396428f31fc2ff94d86c7d9e82fe93b7, type: 2}
+    color: {r: 0.5647059, g: 0.5647059, b: 0.5647059, a: 1}
+  - material: {fileID: 2100000, guid: 33b25c63d34f7f34188fbff21b26f3e2, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 0}
+  - material: {fileID: 2100000, guid: d7cb90f0b2120e440a63a8a7de52fb46, type: 2}
+    color: {r: 0.04716976, g: 0.04716976, b: 0.04716976, a: 1}
+  - material: {fileID: 2100000, guid: 4a5d7505f6ae2044aa2c4c9c5e0e34bc, type: 2}
+    color: {r: 0.95283014, g: 0.95283014, b: 0.95283014, a: 1}
+  - material: {fileID: 2100000, guid: 152720f1ff46313458c66edc9ca2dd2c, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - material: {fileID: 2100000, guid: 458ffcdfa12e144419042bc314d6d333, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - material: {fileID: 2100000, guid: 683543e72a5656f448b61ab948288616, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - material: {fileID: 2100000, guid: 05199d30f65ab8d46b63027772d9636e, type: 2}
+    color: {r: 1, g: 1, b: 1, a: 1}
